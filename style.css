@@ -1,3 +1,12 @@
 .red {
     background: red;
+    font-size: 50px;
+}
+
+.teksti {
+    visibility: hidden;
+}
+
+button {
+    font-size: larger;
 }
